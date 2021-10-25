@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Task3_TMG.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\1212i\RiderProjects\Task3_TMG\.idea\.idea.Task3_TMG\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
